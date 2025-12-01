@@ -38,8 +38,3 @@ This project implements a vision-based desktop automation system that:
 - **OS**: Windows 10/11 (1920×1080 resolution)
 
 ## 📁 Project Structure
-
-
-Performance metrics and optimization strategies
-
-Scalability to other icons, resolutions, and themes
