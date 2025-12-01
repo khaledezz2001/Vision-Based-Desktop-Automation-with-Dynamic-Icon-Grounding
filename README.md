@@ -37,4 +37,4 @@ This project implements a vision-based desktop automation system that:
 - **Dependency Management**: uv
 - **OS**: Windows 10/11 (1920×1080 resolution)
 
-## 📁 Project Structure
+
