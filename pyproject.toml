@@ -1,0 +1,22 @@
+[project]
+name = "vision-based-desktop-automation"
+version = "0.1.0"
+description = "A Python application that uses computer vision to dynamically locate and interact with desktop icons on Windows."
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+keywords = ["automation", "computer-vision", "gui", "pyautogui", "opencv"]
+
+dependencies = [
+    "opencv-python>=4.5.0",
+    "numpy>=1.19.0",
+    "pyautogui>=0.9.53",
+    "requests>=2.25.0",
+    "pyperclip>=1.8.0",
+]
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
