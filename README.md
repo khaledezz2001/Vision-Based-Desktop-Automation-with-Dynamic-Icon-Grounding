@@ -49,6 +49,7 @@ This project uses `uv` for modern, reproducible dependency management.
 
 3.  **Run the script:**
     ```bash
+    cd src
     uv run python automation_script.py
     ```
 
@@ -66,6 +67,7 @@ This project uses `uv` for modern, reproducible dependency management.
     ```
 4.  **Run the script:**
     ```bash
+    cd src
     python automation_script.py
     ```
 
